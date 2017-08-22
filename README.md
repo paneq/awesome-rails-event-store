@@ -1,0 +1,1 @@
+# awesome-rails-event-store
