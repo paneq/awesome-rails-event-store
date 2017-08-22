@@ -6,4 +6,4 @@
 
 ## Integrating Bounded Contexts
 
-(Reliable notifications between two apps or microservices)[http://blog.arkency.com/2017/04/reliable-notifications-between-two-systems/]
+[Reliable notifications between two apps or microservices](http://blog.arkency.com/2017/04/reliable-notifications-between-two-systems/)
